@@ -25,7 +25,7 @@ The project comprised the following steps:
 
 1.8. Compute the spatial average of the rainfall in the Mondego RB
    
-2. Create ECMWF meteorological dataset (tp, tcc, t2m)
+1. Create ECMWF meteorological dataset (tp, tcc, t2m)
 
 2.1. Define coordinates (lat/long) for download
 
@@ -35,7 +35,7 @@ The project comprised the following steps:
 
 2.4. Generate images (rainfall, temperature, total cloud coverage)
    
-3. Develop CNN for spatial averaged rainfall prediction
+1. Develop CNN for spatial averaged rainfall prediction
 
 3.1.Dataset preprocessing
 
