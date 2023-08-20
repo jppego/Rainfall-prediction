@@ -9,9 +9,9 @@ It was a group project, which required from us to use deep learning and computer
 The project comprised the following steps:
 1. Compute daily rainfall in the Mondego river basin using the Thiessen method.
    
-1.1. Create Thiessen construction for Portuguese basins
+2. Create Thiessen construction for Portuguese basins
 
-1.2. Identify which Thiessen polygons intersect Mondego river basin
+2. Identify which Thiessen polygons intersect Mondego river basin
 
 1.3. Download data from SNIRH for period 1950 2021
 
