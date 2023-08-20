@@ -1,4 +1,4 @@
-# VC
+# Rainfall prediction in the Mondego river basin
 Rainfall prediction in the Mondego river basin using CV and DL
 
 # Introduction 
