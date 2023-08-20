@@ -25,33 +25,33 @@ The project comprised the following steps:
    
    1.8. Compute the spatial average of the rainfall in the Mondego RB
    
-1. Create ECMWF meteorological dataset (tp, tcc, t2m)
+2. Create ECMWF meteorological dataset (tp, tcc, t2m)
 
-2.1. Define coordinates (lat/long) for download
-
-2.2. Download data from ECMWF for period defined in 1.7
-
-2.3. Convert lat/long to Carthesian coordinates (EPSG:3763)
-
-2.4. Generate images (rainfall, temperature, total cloud coverage)
+   2.1. Define coordinates (lat/long) for download
    
-1. Develop CNN for spatial averaged rainfall prediction
+   2.2. Download data from ECMWF for period defined in 1.7
+   
+   2.3. Convert lat/long to Carthesian coordinates (EPSG:3763)
+   
+   2.4. Generate images (rainfall, temperature, total cloud coverage)
+      
+3. Develop CNN for spatial averaged rainfall prediction
 
-3.1.Dataset preprocessing
-
-3.2. Data loader
-
-3.3. CNN model
-
-3.4. Training routine
-
-3.5. Evaluation routine
-
-3.6. Hyper parameter tunning
-
-3.7. Testing different image sizes
-
-3.8. Results evaluation
+   3.1.Dataset preprocessing
+   
+   3.2. Data loader
+   
+   3.3. CNN model
+   
+   3.4. Training routine
+   
+   3.5. Evaluation routine
+   
+   3.6. Hyper parameter tunning
+   
+   3.7. Testing different image sizes
+   
+   3.8. Results evaluation
 
 
 # Contributions
